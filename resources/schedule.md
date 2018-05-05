@@ -53,7 +53,7 @@
 |15  |04.23 |	[nb26](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb26_ANOVA.ipynb) [bonus](https://github.com/dblarremore/csci3022/blob/master/notebooks/nbBonus_ANOVA.ipynb)    |           |**ANOVA + Inference in MLR** 							    |       |	|
 |    |04.25 | [nb27](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb27_LogisticRegression.ipynb)	    |           |Logistic Regr. & Classification		| [lec27](https://github.com/dblarremore/csci3022/blob/master/slides/lec27.pdf)      |	|
 |    |04.27 | 	    |           |**Logistic Regr. & Classification**	|       |	|
-|16  |04.30 |	    |           |Solution Techniques and SGD			|       |	|
+|16  |04.30 | 	    |           |Solution Techniques and SGD			| [lec28](https://github.com/dblarremore/csci3022/blob/master/slides/lec28.pdf)      |	|
 |    |05.2  |	    |           |**FINAL EXAM REVIEW**					 |       |practicum due|
 <<<<<<< HEAD
 |X   |05.X  |	    |           |**FINAL EXAM**							 |       ||
